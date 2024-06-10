@@ -1,5 +1,5 @@
 # DIO-desafio-dia-a-dia-QA
-Esse é um projeto da DIO para a Formação QA em que uso JIRA e Confluence, além de MindMap com Miro
+Esse é um projeto da DIO para a Formação QA em que uso JIRA e Zephyr Scale, além de MindMap com Miro
 
 ## Projeto - O dia a dia de um QA: A prática de testes manuais funcionais
 Documentos do desafio de projeto da Formação em Quality Assurance Experience
